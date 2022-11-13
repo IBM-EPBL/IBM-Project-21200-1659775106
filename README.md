@@ -1,7 +1,7 @@
 ![This is an image](https://user-images.githubusercontent.com/113886885/201464675-de2148ba-70e6-44b3-8a1b-4c29c09ad3c3.png)
 # **UNIVERSITY ADMIT ELIGIBILITY PREDICTOR**
 ## IBM-Project-21200-1659775106
-### :man_student:Team Leader: Ahamed Basheer
+### :man_student:Team Leader: Ahamed Basheer M
 ### :man_student:Team members: Aishwarya DP , AmreenTaj MA , Lokesh M
 ### :man_student:Team ID:PNT2022TMID27859
 ## **ABSTRACT**
