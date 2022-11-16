@@ -1,0 +1,11 @@
+streamlit-authenticator==0.1.5
+Pathlib
+streamlit
+numpy
+pandas
+scikit-image
+Pillow
+scikit-learn
+scipy
+seaborn
+requests
