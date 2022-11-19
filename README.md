@@ -4,6 +4,12 @@
 ### :man_student:Team Leader: Ahamed Basheer M
 ### :man_student:Team members: Aishwarya DP , AmreenTaj MA , Lokesh M
 ### :man_student:Team ID:PNT2022TMID27859
+### Login Credentials for our website 
+#### Username         Password
+*    Ahamed-1        Ahamed@123
+*    DP-Ash          Aishwarya@123
+*    Amreen-Taj      Amreen@123
+*    Loki-1          Lokesh@!23
 ## **ABSTRACT**
 Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.
 ## **PROJECT OBJECTIVE**
@@ -14,7 +20,4 @@ Students are often worried about their chances of admission to University. The a
 * Build a web application using the Flask framework.
 ## **ARCHITECTURE**
 ![This is an image](https://user-images.githubusercontent.com/113886885/201464999-e687fd6b-df89-41b8-b455-6811217bb3f5.jpg)
-
-
-
 
